@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\soldo\desktop\учеба\4 курс\друзья\лабораторные работы\lab2\maze\maze\main.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  maze.vcxproj -> C:\Users\soldo\Desktop\учеба\4 курс\Друзья\Лабораторные работы\lab2\maze\Debug\maze.exe

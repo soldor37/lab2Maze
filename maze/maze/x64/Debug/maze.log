@@ -1,0 +1,5 @@
+﻿  Algoritm.cpp
+  main.cpp
+d:\users\георгий\desktop\4 курс\друзья\лабораторные работы\lab2\maze\maze\main.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  maze.vcxproj -> D:\Users\Георгий\Desktop\4 курс\Друзья\Лабораторные работы\lab2\maze\x64\Debug\maze.exe
