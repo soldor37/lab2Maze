@@ -1,0 +1,2 @@
+# lab2Maze
+Maze
