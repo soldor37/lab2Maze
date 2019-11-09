@@ -7,5 +7,8 @@
 #include <windows.h> 
 #include <stdio.h>
 using namespace std;
-void mazeBuild();
+
+int mazeBuild();
+
+double ValidateValue();
 

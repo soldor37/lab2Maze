@@ -6,6 +6,7 @@
 #include <windows.h> 
 #include <stdio.h>
 #include "Algoritm.h"
+#include "Interface.h"
 using namespace std;
 int main() {
 	HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
@@ -13,7 +14,7 @@ int main() {
 	setlocale(0, "rus");
 	srand(time(0));
 
-	mazeBuild();
+	Run();
 
 	system("pause");
 	return 0;
